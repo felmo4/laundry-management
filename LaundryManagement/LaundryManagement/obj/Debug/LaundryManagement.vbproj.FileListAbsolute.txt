@@ -1,0 +1,24 @@
+C:\Users\Lucho\Desktop\SCHOOL\!SECOND SEM\DBProg\LaundryManagement\LaundryManagement\bin\Debug\LaundryManagement.exe.config
+C:\Users\Lucho\Desktop\SCHOOL\!SECOND SEM\DBProg\LaundryManagement\LaundryManagement\bin\Debug\LaundryManagement.exe
+C:\Users\Lucho\Desktop\SCHOOL\!SECOND SEM\DBProg\LaundryManagement\LaundryManagement\bin\Debug\LaundryManagement.pdb
+C:\Users\Lucho\Desktop\SCHOOL\!SECOND SEM\DBProg\LaundryManagement\LaundryManagement\bin\Debug\LaundryManagement.xml
+C:\Users\Lucho\Desktop\SCHOOL\!SECOND SEM\DBProg\LaundryManagement\LaundryManagement\obj\Debug\LaundryManagement.formMain.resources
+C:\Users\Lucho\Desktop\SCHOOL\!SECOND SEM\DBProg\LaundryManagement\LaundryManagement\obj\Debug\LaundryManagement.Resources.resources
+C:\Users\Lucho\Desktop\SCHOOL\!SECOND SEM\DBProg\LaundryManagement\LaundryManagement\obj\Debug\LaundryManagement.vbproj.GenerateResource.Cache
+C:\Users\Lucho\Desktop\SCHOOL\!SECOND SEM\DBProg\LaundryManagement\LaundryManagement\obj\Debug\LaundryManagement.exe
+C:\Users\Lucho\Desktop\SCHOOL\!SECOND SEM\DBProg\LaundryManagement\LaundryManagement\obj\Debug\LaundryManagement.xml
+C:\Users\Lucho\Desktop\SCHOOL\!SECOND SEM\DBProg\LaundryManagement\LaundryManagement\obj\Debug\LaundryManagement.pdb
+C:\Users\Lucho\Desktop\LaundryManagement\LaundryManagement\bin\Debug\LaundryManagement.exe.config
+C:\Users\Lucho\Desktop\LaundryManagement\LaundryManagement\obj\Debug\LaundryManagement.exe
+C:\Users\Lucho\Desktop\LaundryManagement\LaundryManagement\obj\Debug\LaundryManagement.xml
+C:\Users\Lucho\Desktop\LaundryManagement\LaundryManagement\obj\Debug\LaundryManagement.pdb
+C:\Users\Lucho\Desktop\LaundryManagement\LaundryManagement\bin\Debug\LaundryManagement.exe
+C:\Users\Lucho\Desktop\LaundryManagement\LaundryManagement\bin\Debug\LaundryManagement.pdb
+C:\Users\Lucho\Desktop\LaundryManagement\LaundryManagement\bin\Debug\LaundryManagement.xml
+C:\Users\Lucho\Desktop\LaundryManagement\LaundryManagement\obj\Debug\LaundryManagement.formMain.resources
+C:\Users\Lucho\Desktop\LaundryManagement\LaundryManagement\obj\Debug\LaundryManagement.Resources.resources
+C:\Users\Lucho\Desktop\LaundryManagement\LaundryManagement\obj\Debug\LaundryManagement.vbproj.GenerateResource.Cache
+C:\Users\Lucho\Desktop\LaundryManagement\LaundryManagement\obj\Debug\LaundryManagement.formAddeditorder.resources
+C:\Users\Lucho\Desktop\LaundryManagement\LaundryManagement\obj\Debug\LaundryManagement.formLogin.resources
+C:\Users\Lucho\Desktop\LaundryManagement\LaundryManagement\obj\Debug\LaundryManagement.formCustomer.resources
+C:\Users\Lucho\Desktop\LaundryManagement\LaundryManagement\obj\Debug\LaundryManagement.formHelp.resources
